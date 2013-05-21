@@ -1,0 +1,1 @@
+<?php include 'article-list.php';?>
